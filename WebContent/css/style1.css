@@ -1,0 +1,133 @@
+body{
+	background-color:white;
+}
+#header {
+    background-color:white;
+    color:white;
+    text-align:center;
+    padding:5px;
+    height: 70px;
+}
+#line {
+	background-color:black;
+    height: 2px;
+}
+#line_h {
+	background-color:black;
+    width: 2px;
+    float: left;
+}
+.login_btn{
+	margin-right: 30px;
+	margin-left: 100px;
+}
+#header .logo{
+    width: 60px;
+    height: 60px;
+}
+#header .title_img{
+    padding-right: 300px;
+}
+#header h3{
+    color: black;
+}
+#nav_h {
+    background-color:white;
+    padding:5px;
+    height: 30px;
+}
+.nav_l1{
+	margin-left:70em;
+}
+.nav_logout{
+	margin-left:92em;
+}
+a{
+	color:black;
+}	
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   	width:100%;
+   height: 30px;
+   position: absolute;
+   bottom: 0;
+}
+#general_info {
+    height:100%;
+    width:60%;
+    float:left;
+    margin-top: 15%;
+    position:relative;	      
+}
+#login_page {
+	margin-left: 2%;
+    height:100%;
+    width:35%;
+    float:left;
+    margin-top: 5%;
+    position:relative;	      
+}
+#busscroller{
+	margin-bottom: 10px;
+}
+#general_info .img_vehicle{
+	padding-top: 10%;
+	padding-left: 10%;
+}
+
+
+#content{
+	width: 100%;
+	height: 100%;
+}
+#login_details{
+	padding-left: 10px; 
+	padding-right: 10px;
+		
+}
+#login_details table{
+	height: 300px;
+	background-color: white;	
+}
+form{
+	-webkit-box-shadow: 1px 1px 15px 8px rgba(138,149,150,1);
+-moz-box-shadow: 1px 1px 15px 8px rgba(138,149,150,1);
+box-shadow: 1px 1px 15px 8px rgba(138,149,150,1);
+}
+.inp{
+	margin-top: 10px;
+}
+.login_header{
+	padding-top: 10px;
+}
+.login_btn{
+	background-color: black;
+	color: white;
+}
+.tab_adj{
+	width: 25%;
+	height: 100%;
+	float:left;
+}
+#navlinks {
+  position: absolute;
+  top: 16%;
+  bottom: 0;
+  width: 25%;
+  height: 80%;
+}
+#content {
+  position: absolute;
+  top: 15%;
+  left: 25%;
+  bottom: 0;
+  width: 75%;
+  height: 80%;
+}
+#logout_image{
+	margin-left: 30%;
+	margin-top: 13%;
+}

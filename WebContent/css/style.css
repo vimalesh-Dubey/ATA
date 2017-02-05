@@ -1,0 +1,77 @@
+body{
+	background-color:white;
+}
+#header {
+    background-color:white;
+    color:white;
+    text-align:center;
+    padding:5px;
+    height: 70px;
+}
+#line {
+	background-color:black;
+    height: 2px;
+}
+#line_h {
+	background-color:black;
+    width: 2px;
+    float: left;
+}
+.login_btn{
+	margin-right: 30px;
+	margin-left: 100px;
+	background-color: black;
+	color: white;
+}
+#header .logo{
+    width: 60px;
+    height: 60px;
+}
+#header .title_img{
+    padding-right: 300px;
+}
+#header h3{
+    color: black;
+}
+#nav {
+    background-color:white;
+    text-align:right;
+    padding:5px;
+    height: 30px;
+}
+#nav a{
+	color:black;
+	
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+
+#busscroller{
+	margin-bottom: 10px;
+}
+#general_info .img_vehicle{
+	padding-top: 10%;
+	padding-left: 10%;
+}
+
+form{
+	-webkit-box-shadow: 1px 1px 15px 8px rgba(138,149,150,1);
+-moz-box-shadow: 1px 1px 15px 8px rgba(138,149,150,1);
+box-shadow: 1px 1px 15px 8px rgba(138,149,150,1);
+}
+.inp{
+	margin-top: 10px;
+}
+.login_header{
+	padding-top: 10px;
+}
+.ci{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+
